@@ -1,4 +1,4 @@
-#run in termianl with ruby lib/practicing_returns.rb
+#run in terminal with ruby lib/practicing_returns.rb
 require 'pry'
 
 def hello(array)
